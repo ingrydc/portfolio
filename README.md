@@ -1,4 +1,4 @@
-# Ingryd Martins — Portfolio
+# Ingryd C. Martins — Portfolio
 
 Portfólio pessoal de desenvolvimento front-end.
 
